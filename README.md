@@ -4,7 +4,7 @@ Some custom functions to streamline workflows
 
 
 
-## def capture():
+## def bonecapture():
 - [ ] bonecapturelines
 - [ ] tetconform
 - [ ] bonecapturebiharmonic
